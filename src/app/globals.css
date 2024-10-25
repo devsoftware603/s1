@@ -1,0 +1,3 @@
+.main-menu ul > li.dropdown > ul > li.no_subMenu::after {
+  display: none;
+}

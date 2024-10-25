@@ -1,0 +1,11 @@
+{
+  "/api/(forntend-api)/get-menu/route": "app/api/(forntend-api)/get-menu/route.js",
+  "/[...service]/page": "app/[...service]/page.js",
+  "/api/contents-api/route": "app/api/contents-api/route.js",
+  "/api/(forntend-api)/get-menu-by-slug/route": "app/api/(forntend-api)/get-menu-by-slug/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/(blog)/all-blog/page": "app/admin/(blog)/all-blog/page.js",
+  "/admin/(blog)/edit-blog/[id]/page": "app/admin/(blog)/edit-blog/[id]/page.js",
+  "/admin/(menu)/all-contents/page": "app/admin/(menu)/all-contents/page.js"
+}
